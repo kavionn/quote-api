@@ -35,6 +35,10 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Local only
+GEMINI.md
+tes-qc.js
+
 # Project specific
 assets/fonts/*
 assets/emojis/*
